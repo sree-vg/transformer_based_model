@@ -255,7 +255,7 @@ The trained model and tokenizer are saved locally and reloaded for inference.
 
 ---
 
-## 👩‍💻 Author & Approval
+## 👩‍💻 Author
 
 **Created By:** Sree V G
 ---
